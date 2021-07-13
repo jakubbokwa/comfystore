@@ -1,17 +1,11 @@
-## Notes
+# An e-commerce website Comfy Store
 
-#### Older React Version
+## Created with the use of:
 
-```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
-```
+React - structure
+Styled Components - styling
+Auth0 - authentication
 
-#### Current React Version
+### Live preview available at:
 
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
-```
+https://jakubbokwa-comfystore.netlify.app/
